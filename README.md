@@ -38,4 +38,4 @@ Skill Swap is a collaborative web platform designed to democratize learning thro
 - Team Leader: Deepti Yadav
 - Members: Kajal Chaudhary, Dhruv Bhadhotiya, Aditya Khandelwal
 
-Let me know if you want it stylized for GitHub, or prefer an interactive landing page version instead. We can add badges, deployment steps, or contribution guidelines too!
+
